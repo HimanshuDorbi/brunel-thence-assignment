@@ -100,5 +100,8 @@ yarn add react-router
 
 MIT License
 
+## contact
+
+if any problem in running or clonning please contact at  ```dorbihimanshu306@gmail.com```
 
 
