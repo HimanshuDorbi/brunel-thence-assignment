@@ -13,6 +13,16 @@
 
 ## Running in dev environment
 
+Now clone the repository to your local desktop
+
+<br>
+
+## Cloning command
+
+```
+git  clone <repository url>
+```
+
 1. `cd YOUR_APPLICATION`
 2. `npm install`
 3. `npm start`
