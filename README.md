@@ -64,7 +64,6 @@ This file contains various environment variables that you can configure.
 For the project to build, **these files must exist with exact filenames**:
 
 
-You may create subdirectories inside src.
 
 ## Available Scripts
 
